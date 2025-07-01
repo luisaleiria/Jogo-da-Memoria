@@ -55,5 +55,5 @@ Este projeto está disponível sob a [MIT License](LICENSE).
 ---
 
 <div align="center">
-  <small>Desenvolvido com ❤️ por [Seu Nome]</small>
+  <small>Desenvolvido com ❤️ por Luisa Leiria</small>
 </div>
